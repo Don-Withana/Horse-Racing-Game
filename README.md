@@ -1,7 +1,7 @@
 # Horse-Racing-Game
 Python text-based simulation game. Great for practicing Python skills and understanding game logic!
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Horse-Racing-Game/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/Don-Withana/Horse-Racing-Game/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Horse-Racing-Game. If you have a suggestion
@@ -58,8 +58,8 @@ Python text-based simulation game. Great for practicing Python skills and unders
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#how to play">How to Play</a></li>
+    <li><a href="#game features">Game Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -135,29 +135,45 @@ Contributions are welcome! If you have ideas for new features or bug fixes, plea
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+This project is licensed under the MIT License. See the `LICENSE.txt` for more details. This means you can freely use, modify, and distribute the code, but please include the license notice in any copies or substantial portions of the software
 
 <!-- CONTACT -->
 ## Contact
+
+Have questions, suggestions, or just want to chat about the project? Reach out to me!
 
 Name: Himan Withana
 <br>
 Email: himanhansadh.withana@gmail.com 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Acknowledgments
+
+Special thanks to the following resources and tools that have been invaluable in the creation and development of this project:
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Python Documentation](https://docs.python.org/3/)
+* [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Horse-Racing-Game.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Horse-Racing-Game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Horse-Racing-Game.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Horse-Racing-Game/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Horse-Racing-Game.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Horse-Racing-Game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Horse-Racing-Game.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Horse-Racing-Game/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Horse-Racing-Game.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Horse-Racing-Game/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Don-Withana/Horse-Racing-Game.svg?style=for-the-badge
+[contributors-url]: https://github.com/Don-Withana/Horse-Racing-Game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Don-Withana/Horse-Racing-Game.svg?style=for-the-badge
+[forks-url]: https://github.com/Don-Withana/Horse-Racing-Game/network/members
+[stars-shield]: https://img.shields.io/github/stars/Don-Withana/Horse-Racing-Game.svg?style=for-the-badge
+[stars-url]: https://github.com/Don-Withana/Horse-Racing-Game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Don-Withana/Horse-Racing-Game.svg?style=for-the-badge
+[issues-url]: https://github.com/Don-Withana/Horse-Racing-Game/issues
+[license-shield]: https://img.shields.io/github/license/Don-Withana/Horse-Racing-Game.svg?style=for-the-badge
+[license-url]: https://github.com/Don-Withana/Horse-Racing-Game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/himanwithana
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
