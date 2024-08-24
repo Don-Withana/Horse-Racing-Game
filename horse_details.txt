@@ -1,0 +1,20 @@
+001,Wind Runner,John Smith,5,21,Thunderstorm,3 Wins,A
+002,Blaze,Sarah Johnson,7,20,Inferno,1 Win,B
+003,Wind Shadow,David Miller,9,18,Eclipse,5 Wins,C
+004,Wind Comet,Emily White,6,23,Nebula,0 Wins,D
+005,Fury,Michael Davis,10,19,Nightshade,2 Wins,A
+006,Phoenix,Jessica Turner,11,22,Phoenix Wing,4 Wins,B
+007,Breeze,Brian Wilson,5,17,Tidal Wave,0 Wins,C
+008,Eclipse,Samantha Brown,12,24,Black Velvet,0 Wins,D
+009,Rocket,Christopher Lee,8,20,Meteor,6 Wins,A
+010,Sea,Lauren Anderson,13,18,Typhoon,0 Wins,B
+011,Lightning,Kevin Martinez,9,16,Ivory,1 Win,C
+012,Comet,Megan Carter,7,22,Crimson Storm,2 Wins,D
+013,Moon,Brandon Hall,6,21,Frostbite,0 Wins,A
+014,Rider,Olivia Robinson,11,19,Shadowfax,3 Wins,B
+015,Canyon,Daniel Moore,10,17,Copperhead,0 Wins,C
+016,Dancer,Jessica Rivera,14,23,Starry Night,7 Wins,D
+017,Zing,Andrew Thompson,10,18,Zephyr,0 Wins,A
+018,Dust,Rachel Clark,15,20,Crystal,4 Wins,B
+019,Mirage,Matthew Adams,11,19,Mirage,0 Wins,C
+020,Inferno,Emily Wilson,12,22,Blaze,5 Wins,D
